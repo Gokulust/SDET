@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrPAzMgf3U9wY/UNKVGsSefkl2TIQiJSOR+XdcYvbXrCE2DjDnFcCvLjOGr7DCnJNYj7zAws66QerQ4g60M0TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\249214\\Desktop\\PlayWrightSolution\\PlayWrigthSoln\\ConsoleAppPJ\\ConsoleAppPJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\249214\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\249214\\.nuget\\packages\\microsoft.playwright\\1.40.0\\microsoft.playwright.1.40.0.nupkg.sha512",
+    "C:\\Users\\249214\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\249214\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\249214\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\249214\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+2023-12-05 17:53:41.923 +05:30 [INF] Typed search text java
+2023-12-05 17:53:51.523 +05:30 [INF] Screenshot taken
+2023-12-05 17:53:51.714 +05:30 [INF] Search Test Success
+2023-12-05 17:53:51.714 +05:30 [INF] Search Test Passed
+2023-12-05 17:53:52.211 +05:30 [INF] Heading Test success
+2023-12-05 17:53:52.212 +05:30 [INF] Heading Test Passed
+2023-12-05 17:53:52.480 +05:30 [INF] Title Test success
+2023-12-05 17:53:52.480 +05:30 [INF] Title Test Passed

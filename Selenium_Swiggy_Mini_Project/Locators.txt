@@ -1,0 +1,2 @@
+Locate Me=//button[@class='_1fiQt']
+swiggy logo=//a[@title='Swiggy']

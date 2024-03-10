@@ -1,0 +1,16 @@
+2023-12-07 17:50:05.138 +05:30 [INF] Search Results Page Loading test started
+2023-12-07 17:50:05.214 +05:30 [INF] Search Results Page Loading test passed
+2023-12-07 17:50:12.400 +05:30 [INF] Selected Product Page Loading test started
+2023-12-07 17:50:22.640 +05:30 [ERR] Selected Product Page Loading test failed
+2023-12-07 17:50:22.693 +05:30 [INF] Cart Page Loading With Selected Product test started
+2023-12-07 17:50:24.448 +05:30 [INF] Cart Page Loading With Selected Product test passed
+2023-12-07 17:50:26.526 +05:30 [INF] Checkout Page Loading With Selected Product test started
+2023-12-07 17:50:26.578 +05:30 [INF] Checkout Page Loading With Selected Product test passed
+2023-12-07 17:50:29.596 +05:30 [INF] Search Results Page Loading test started
+2023-12-07 17:50:29.635 +05:30 [INF] Search Results Page Loading test passed
+2023-12-07 17:50:35.709 +05:30 [INF] Selected Product Page Loading test started
+2023-12-07 17:50:35.737 +05:30 [INF] Selected Product Page Loading test passed
+2023-12-07 17:50:35.777 +05:30 [INF] Cart Page Loading With Selected Product test started
+2023-12-07 17:50:37.819 +05:30 [INF] Cart Page Loading With Selected Product test passed
+2023-12-07 17:50:40.564 +05:30 [INF] Checkout Page Loading With Selected Product test started
+2023-12-07 17:50:40.596 +05:30 [INF] Checkout Page Loading With Selected Product test passed

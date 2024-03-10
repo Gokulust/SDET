@@ -1,0 +1,18 @@
+2023-12-05 17:20:41.250 +05:30 [INF] Typed search text water
+2023-12-05 17:20:48.847 +05:30 [INF] Screenshot taken
+2023-12-05 17:20:49.013 +05:30 [INF] Search Test Success
+2023-12-05 17:20:49.013 +05:30 [INF] Search Test Passed
+2023-12-05 17:20:49.482 +05:30 [INF] Heading Test success
+2023-12-05 17:20:49.483 +05:30 [INF] Heading Test Passed
+2023-12-05 17:20:49.691 +05:30 [INF] Title Test success
+2023-12-05 17:20:49.692 +05:30 [INF] Title Test Passed
+2023-12-05 17:20:52.392 +05:30 [INF] Typed search text java
+2023-12-05 17:21:00.995 +05:30 [INF] Screenshot taken
+2023-12-05 17:21:01.101 +05:30 [INF] Search Test Success
+2023-12-05 17:21:01.101 +05:30 [INF] Search Test Passed
+2023-12-05 17:21:01.354 +05:30 [INF] Heading Test success
+2023-12-05 17:21:01.354 +05:30 [INF] Heading Test Passed
+2023-12-05 17:21:01.596 +05:30 [INF] Title Test success
+2023-12-05 17:21:01.597 +05:30 [INF] Title Test Passed
+2023-12-05 17:21:11.831 +05:30 [INF] Product Page Test success
+2023-12-05 17:21:11.831 +05:30 [INF] Product Page Test Passed

@@ -1,0 +1,10 @@
+2023-12-06 15:24:02.322 +05:30 [INF] Typed search text water
+2023-12-06 15:24:10.669 +05:30 [INF] Screenshot taken
+2023-12-06 15:24:10.809 +05:30 [INF] Search Test Success
+2023-12-06 15:24:10.809 +05:30 [INF] Search Test Passed
+2023-12-06 15:24:11.196 +05:30 [INF] Heading Test success
+2023-12-06 15:24:11.197 +05:30 [INF] Heading Test Passed
+2023-12-06 15:24:11.391 +05:30 [INF] Title Test success
+2023-12-06 15:24:11.391 +05:30 [INF] Title Test Passed
+2023-12-06 15:24:13.171 +05:30 [INF] Product Page Test success
+2023-12-06 15:24:13.171 +05:30 [INF] Product Page Test Passed

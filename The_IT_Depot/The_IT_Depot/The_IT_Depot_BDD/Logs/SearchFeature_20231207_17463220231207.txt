@@ -1,0 +1,19 @@
+2023-12-07 17:46:38.222 +05:30 [INF] Typed search text hp laptop
+2023-12-07 17:46:39.937 +05:30 [INF] User clicked on the search button
+2023-12-07 17:46:40.191 +05:30 [INF] Screenshot taken
+2023-12-07 17:46:40.222 +05:30 [INF] Search result loading  Success
+2023-12-07 17:46:40.222 +05:30 [INF] Search result loading Test Passed
+2023-12-07 17:46:40.274 +05:30 [INF] User click on the subcategory checkbox
+2023-12-07 17:46:40.322 +05:30 [INF] User click on the sort by selection box
+2023-12-07 17:46:40.367 +05:30 [INF] User select the sort by option high to low
+2023-12-07 17:46:44.287 +05:30 [INF] User click on the product with product number
+2023-12-07 17:46:44.505 +05:30 [INF] Screenshot taken
+2023-12-07 17:46:44.533 +05:30 [INF] Selected product loading  Success
+2023-12-07 17:46:44.534 +05:30 [INF] Selected product loading Test Passed
+2023-12-07 17:46:44.580 +05:30 [INF] User add the product to the wish list
+2023-12-07 17:46:44.830 +05:30 [INF] Screenshot taken
+2023-12-07 17:46:46.783 +05:30 [INF] SWish List Pageloading  Success
+2023-12-07 17:46:46.783 +05:30 [INF] Wish List Page loading Test Passed
+2023-12-07 17:46:47.000 +05:30 [INF] Screenshot taken
+2023-12-07 17:46:48.041 +05:30 [INF] Empty WishList Check text   Success
+2023-12-07 17:46:48.042 +05:30 [INF] Empty WishList Check Test Passed

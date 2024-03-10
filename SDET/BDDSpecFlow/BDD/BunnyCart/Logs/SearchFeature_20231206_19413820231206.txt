@@ -1,0 +1,24 @@
+2023-12-06 19:41:43.631 +05:30 [INF] Typed search text water
+2023-12-06 19:41:51.722 +05:30 [INF] Screenshot taken
+2023-12-06 19:41:51.957 +05:30 [INF] Search Test Success
+2023-12-06 19:41:51.957 +05:30 [INF] Search Test Passed
+2023-12-06 19:41:52.419 +05:30 [INF] Heading Test success
+2023-12-06 19:41:52.419 +05:30 [INF] Heading Test Passed
+2023-12-06 19:41:52.648 +05:30 [INF] Title Test success
+2023-12-06 19:41:52.648 +05:30 [INF] Title Test Passed
+2023-12-06 19:42:00.359 +05:30 [INF] Product Page Test success
+2023-12-06 19:42:00.359 +05:30 [INF] Product Page Test Passed
+2023-12-06 19:42:03.556 +05:30 [INF] Product added to cart success
+2023-12-06 19:42:03.556 +05:30 [INF] Product Added To Cart  Passed
+2023-12-06 19:42:06.298 +05:30 [INF] Typed search text java
+2023-12-06 19:42:18.256 +05:30 [INF] Screenshot taken
+2023-12-06 19:42:18.516 +05:30 [INF] Search Test Success
+2023-12-06 19:42:18.516 +05:30 [INF] Search Test Passed
+2023-12-06 19:42:19.148 +05:30 [INF] Heading Test success
+2023-12-06 19:42:19.148 +05:30 [INF] Heading Test Passed
+2023-12-06 19:42:19.564 +05:30 [INF] Title Test success
+2023-12-06 19:42:19.565 +05:30 [INF] Title Test Passed
+2023-12-06 19:42:27.123 +05:30 [INF] Product Page Test success
+2023-12-06 19:42:27.123 +05:30 [INF] Product Page Test Passed
+2023-12-06 19:42:30.324 +05:30 [INF] Product added to cart success
+2023-12-06 19:42:30.324 +05:30 [INF] Product Added To Cart  Passed

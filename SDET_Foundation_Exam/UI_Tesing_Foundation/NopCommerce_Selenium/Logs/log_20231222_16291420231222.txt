@@ -1,0 +1,10 @@
+2023-12-22 16:29:15.423 +05:30 [INF] ComputerLinkNavigatesToComputerPagepassed
+2023-12-22 16:29:16.341 +05:30 [INF] PageNavigatesToSelectedCategoryPagepassed
+2023-12-22 16:29:18.293 +05:30 [INF] ProductPageLoadingpassed
+2023-12-22 16:29:19.488 +05:30 [INF] CartPageLoadingpassed
+2023-12-22 16:29:21.962 +05:30 [INF] RegisterPageLoadingpassed
+2023-12-22 16:29:23.553 +05:30 [INF] User Registration With Purschasing Product passed
+2023-12-22 16:29:24.102 +05:30 [INF] ComputerLinkNavigatesToComputerPagepassed
+2023-12-22 16:29:26.367 +05:30 [INF] PageNavigatesToSelectedCategoryPagepassed
+2023-12-22 16:29:37.927 +05:30 [ERR] ProductPageLoading test failed
+2023-12-22 16:29:39.062 +05:30 [INF] CartPageLoadingpassed

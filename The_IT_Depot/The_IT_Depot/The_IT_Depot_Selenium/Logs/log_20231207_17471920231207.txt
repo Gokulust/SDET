@@ -1,0 +1,16 @@
+2023-12-07 17:47:22.373 +05:30 [INF] Search Results Page Loading test started
+2023-12-07 17:47:22.459 +05:30 [INF] Search Results Page Loading test passed
+2023-12-07 17:47:30.153 +05:30 [INF] Selected Product Page Loading test started
+2023-12-07 17:47:40.401 +05:30 [ERR] Selected Product Page Loading test failed
+2023-12-07 17:47:40.460 +05:30 [INF] Wish List Page With Selected Product Loading test started
+2023-12-07 17:47:41.836 +05:30 [INF] Wish List Page With Selected Product Loading test passed
+2023-12-07 17:47:41.879 +05:30 [INF] Wish List Empty Checking test started
+2023-12-07 17:47:43.359 +05:30 [INF] Wish List Empty Checking test passed
+2023-12-07 17:47:44.717 +05:30 [INF] Search Results Page Loading test started
+2023-12-07 17:47:44.750 +05:30 [INF] Search Results Page Loading test passed
+2023-12-07 17:47:52.119 +05:30 [INF] Selected Product Page Loading test started
+2023-12-07 17:48:02.327 +05:30 [ERR] Selected Product Page Loading test failed
+2023-12-07 17:48:02.386 +05:30 [INF] Wish List Page With Selected Product Loading test started
+2023-12-07 17:48:03.520 +05:30 [INF] Wish List Page With Selected Product Loading test passed
+2023-12-07 17:48:03.569 +05:30 [INF] Wish List Empty Checking test started
+2023-12-07 17:48:04.752 +05:30 [INF] Wish List Empty Checking test passed

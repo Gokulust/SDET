@@ -1,0 +1,4 @@
+2023-12-22 13:03:20.781 +05:30 [INF] ComputerLinkNavigatesToComputerPagepassed
+2023-12-22 13:03:21.599 +05:30 [INF] PageNavigatesToSelectedCategoryPagepassed
+2023-12-22 13:03:22.631 +05:30 [INF] ProductPageLoadingpassed
+2023-12-22 13:03:23.195 +05:30 [INF] CartPageLoadingpassed

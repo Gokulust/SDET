@@ -1,0 +1,71 @@
+***Computer Architecture***
+*)what the computer does
+*)Deals with high level design
+*)System design,computer Design
+*)Functional  behaviour
+*)Involves istructions set,addressing mode,data types
+
+***Computer Organization***
+*)how the computer does it
+*)Deals with low level design issues
+*)logic design and circuit design
+*)structural relationship
+*)circuit design,signals,Alu,cpu,and memory
+
+***Functional unit of computer***
+*)input unit
+*)memory uint
+*)arithmetic logic unit
+*)output unit
+*)control uint
+
+**Memory unit**
+*)The function of the memory uint is to store programs and data
+*)there are two classes of storage ,called primary memory and secondary
+
+**primary memory**
+*)primary storage refers to the main storage of the computer or main memory which is the random access memory or ram.
+*)primary storage is a volatile memory ehich means data is loast as soon as device loses power and it cannot be retained .primary storage is commonly referred to as primary memory such as the ram.
+
+**Secondary memory**
+*)external storage devices used to store data on a long term basis
+*)it is non volatile
+
+**Control unit**
+*)the operation of input unit ,output unit ,Alu are co-ordinate by the control unit
+*)Data transfer brtween the processors and memory are also controlled by the control uint through timing signals.
+
+***Basic Operational Concept***
+*)Load R2,LOC  =>R2=desination,LOC=source
+  this instruction reads the contents of a memory location whose address is represented symbolically by the label LOC and loads them into processor register R2
+  The orginal contents of location LOC are preserved,whereas those of register R2 are overwritten.
+*)ADD R4,R2,R3  =>R4=desination ,R2,R3=source
+  adds the content of registers R2 and R3,then places their sum into register R4
+  The operands in r2 and R3 are not altered,but the pervious value in R4 is overwritten by the sum.
+*)Store R4,Loc   =>R4=source,Loc=destination
+  This instruction copies the operand in register R4 to memory location LOC
+  the orginal contents of location LOC are overwritten ,but those of R4 are preserved.
+
+*)In additon to the alu and the control circuitry,the processor contains a number of resgister used for several different purpose
+
+The instruction register(IR)
+Holds the instruction that is currently being executed .its output is available to the control circuits,which generate timing signals that control the various processing element involved in executing the instruction
+
+The Program Counter(PC) is another specialized register it execute of an instruction ,the contents of the pc are updated to correspond to the address of the next intruction to be executed.
+
+***Operational steps***
+*)The program resides in memory
+*)The execution starts when the PC is point to the first instruction of the program
+*)MAR(memory address register) reads the control signal
+*)The memory loads the address word into MDR(memory Data Register)
+*)the contents are transferred to instruction register(IR)
+*)The instruction is ready to be decoded and executed
+
+***BUS STructure***
+
+*)A bus is a pathway for digital signals to rapidly move data
+*)The bus consist ot three sets of lines used to carry address,data,and control signals
+*)Together these three make up the system bus.The system bus is an internal bus,intended to connect the processor with internal hardware devices.
+
+
+

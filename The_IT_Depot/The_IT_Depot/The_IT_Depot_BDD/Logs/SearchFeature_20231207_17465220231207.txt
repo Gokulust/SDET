@@ -1,0 +1,20 @@
+2023-12-07 17:46:56.474 +05:30 [INF] Typed search text hp laptop
+2023-12-07 17:46:57.776 +05:30 [INF] User clicked on the search button
+2023-12-07 17:46:58.043 +05:30 [INF] Screenshot taken
+2023-12-07 17:46:58.073 +05:30 [INF] Search result loading  Success
+2023-12-07 17:46:58.073 +05:30 [INF] Search result loading Test Passed
+2023-12-07 17:46:58.126 +05:30 [INF] User click on the subcategory checkbox
+2023-12-07 17:46:58.174 +05:30 [INF] User click on the sort by selection box
+2023-12-07 17:46:58.216 +05:30 [INF] User select the sort by option high to low
+2023-12-07 17:47:01.077 +05:30 [INF] User click on the product with product number
+2023-12-07 17:47:01.303 +05:30 [INF] Screenshot taken
+2023-12-07 17:47:01.325 +05:30 [INF] Selected product loading  Success
+2023-12-07 17:47:01.325 +05:30 [INF] Selected product loading Test Passed
+2023-12-07 17:47:01.371 +05:30 [INF] User click on the add to cart button
+2023-12-07 17:47:01.607 +05:30 [INF] Screenshot taken
+2023-12-07 17:47:03.788 +05:30 [INF] Cart page loading  Success
+2023-12-07 17:47:03.788 +05:30 [INF] Cart page loading Test Passed
+2023-12-07 17:47:05.503 +05:30 [INF] User click on the checkout button
+2023-12-07 17:47:05.686 +05:30 [INF] Screenshot taken
+2023-12-07 17:47:05.709 +05:30 [INF] checkout page loading  Success
+2023-12-07 17:47:05.709 +05:30 [INF] checkout page loading Test Passed
